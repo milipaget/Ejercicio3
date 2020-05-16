@@ -26,6 +26,6 @@ int suma_digitos (int n1)
 }
 
 /*
-a) El objetivo de la funcion es todos los digitos de un numero
+a) El objetivo de la funcion es sumar todos los digitos de un numero.
 b) No funciona porque no hace referencia a un caso base, ademas llama a la funcion digitos cuando la funcion se llama suma_digitos
 */
