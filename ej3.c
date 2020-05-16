@@ -5,7 +5,7 @@ int suma_digitos (int n1);
 int main (void)
 {
 	int n1=256;			
-	printf("%d\n",suma_digitos(n1));	//imprime el resultado de la funcion
+	printf("%d\n",suma_digitos(n1));	//Imprime el resultado de la función.
 	return 0;
 }
 
