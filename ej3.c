@@ -4,8 +4,8 @@ int suma_digitos (int n1);
 
 int main (void)
 {
-	int n1=256;
-	printf("%d\n",suma_digitos(n1));
+	int n1=256;			
+	printf("%d\n",suma_digitos(n1));	//imprime el resultado de la funcion
 	return 0;
 }
 
